@@ -4,10 +4,10 @@ import numpy as np
 import pickle
 
 # Load Model
-with open("/Users/MANDANI/Desktop/ARNAV/Health-Condition-Prediction/health_condition_pipeline.pkl", "rb") as f:
+with open("health_condition_pipeline.pkl", "rb") as f:
     model = pickle.load(f)
 
-with open("/Users/MANDANI/Desktop/ARNAV/Health-Condition-Prediction/frequency_maps.pkl", "rb") as f:
+with open("frequency_maps.pkl", "rb") as f:
     freq_maps = pickle.load(f)
 
 # Set Page Confiuration
