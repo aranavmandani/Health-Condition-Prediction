@@ -174,7 +174,7 @@ https://health-condition-prediction.onrender.com/\
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Health-Condition-Prediction.git
+git clone https://github.com/your_username/Health-Condition-Prediction.git
 ```
 
 Go to project directory
